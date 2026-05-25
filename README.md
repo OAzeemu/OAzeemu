@@ -1,63 +1,44 @@
 # 👋 Hi, I'm Omar Aqil
+# Oazeemu
 
-🎯 A backend engineer passionate about building secure, scalable, and testable REST APIs.  
-💻 Skilled in JavaScript (Node.js), Express, MySQL, Sequelize, and JWT authentication.  
-🌍 Based in Sweden with international work experience and a user-first mindset.  
-🎧 Inspired by Spotify’s mission – excited by music-tech, real-time systems, and developer-friendly APIs.
+Backend Engineer focused on scalable cloud-native systems, APIs, and solution architecture.
 
----
+## Current Focus
+- Microsoft Solution Architecture
+- Backend Engineering
+- Azure Cloud
+- Distributed Systems
+- CI/CD & DevOps
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Languages:** JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Databases:** MySQL, Sequelize ORM (incl. raw SQL queries)
-- **Auth:** JWT, PassportJS, bcryptjs
-- **Testing:** Jest, Supertest
-- **Docs & Tools:** Swagger, Postman, Git, GitHub
-- **DevOps / Infra:** Render, Aiven.io, Docker (learning), Redis (learning)
-- **Project Workflow:** Jira, Agile, Confluence
+### Backend
+- Node.js
+- ASP.NET
+- Python
 
----
+### Cloud & DevOps
+- Azure
+- Docker
+- Kubernetes
+- GitHub Actions
 
-## 🚀 Featured Projects
+### Databases
+- PostgreSQL
+- Redis
+- SQL Server
 
-### 🧾 Todo REST API
-> Full-featured CRUD API with JWT auth, Swagger docs, role-based access, status seeding & Jest tests.
+## Architecture Interests
+- Microservices
+- Event-Driven Architecture
+- Clean Architecture
+- API Design
+- Cloud Infrastructure
 
-- Node.js + Express + Sequelize + MySQL
-- JWT protected routes, JSend responses
-- Swagger UI, Postman test collection
-
----
-
-### 🛒 E-Commerce API
-> A scalable backend API with cart logic, discounts, soft delete, role auth (admin/user) & modular design.
-
-- Admin panel logic + Membership levels (Bronze/Silver/Gold)
-- RESTful routes, Swagger, raw SQL + associations
-
----
-
-### 📋 Census API – Render + Aiven
-> REST API deployed via Render using Express + MySQL on Aiven. Secure Basic Auth, validated JSON, clean structure.
-
----
-
-### 🐾 Petsquare – Agile Team Project
-> Built in sprints using Jira & Confluence. Focused on user auth, content management, and agile collaboration.
-
----
-
-## 📚 Currently Learning
-
-- **CS50x: Introduction to Computer Science** – Harvard University (edX)  
-  Learning C, Python, SQL, data structures, and web foundations from one of the most respected CS courses globally.
-
-- **AWS Cloud Practitioner** – skillbuilder.aws  
-- **PostgreSQL + Advanced Sequelize**  
-- **Docker & Redis basics**  
-- **System design patterns**
+## Current Goals
+- Building enterprise-grade backend systems
+- Designing scalable cloud architectures
+- Improving DevOps workflows
 
 
 ---
