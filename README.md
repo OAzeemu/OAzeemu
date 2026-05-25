@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Aqil
+
 # Oazeemu
 
 Backend Engineer focused on scalable cloud-native systems, APIs, and solution architecture.
